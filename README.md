@@ -92,11 +92,11 @@ Tenure and TotalCharges are strongly correlated (0.83); MonthlyCharges and tenur
 - **Tenure and TotalCharges** are strongly correlated (0.83); **MonthlyCharges and tenure** are only weakly correlated (0.25) meaning high pricing is an independent churn risk, not just a newer customer effect.
 
 ## Business Recommendations
-1. **Incentivize contract upgrades** — offer discounts, loyalty rewards, or bundles to move month-to-month customers to longer-term contracts.
-2. **Strengthen early lifecycle retention** — structured onboarding, welcome offers, and proactive check-ins during the first six months.
-3. **Investigate Fiber Optic service quality** — customer satisfaction surveys and service audits to address high churn in this segment.
-4. **Target high-bill customers for retention outreach** — flag customers with Monthly Charges above ~$70 as higher risk.
-5. **Avoid redundant modeling variables** — account for the tenure/TotalCharges correlation to avoid multicollinearity in future predictive models.
+1. **Incentivize contract upgrades**: offer discounts, loyalty rewards, or bundles to move month-to-month customers to longer-term contracts.
+2. **Strengthen early lifecycle retention**:  structured onboarding, welcome offers, and proactive check-ins during the first six months.
+3. **Investigate Fiber Optic service quality**:  customer satisfaction surveys and service audits to address high churn in this segment.
+4. **Target high bill customers for retention outreach**: flag customers with Monthly Charges above ~$70 as higher risk.
+5. **Avoid redundant modeling variables**: account for the tenure/Total Charges correlation to avoid multicollinearity in future predictive models.
 
 ## Repository Structure
 ```
