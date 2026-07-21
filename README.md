@@ -51,19 +51,35 @@ The company is losing a substantial share of its customer base, directly affecti
 ## Key Visualizations
 
 **Churn by Contract Type**
-![Churn by Contract Type](images/churn_by_contract_type.png)
+
+
+![Churn by Contract Type](churn_by_contract_type.png)
+
+
 Month-to-month customers churn far more than one-year or two-year customers.
 
 **Churn by Internet Service**
-![Churn by Internet Service](images/churn_by_internet_service.png)
+
+
+![Churn by Internet Service](churn_by_internet_service.png)
+
+
 Fiber Optic customers churn the most; customers with no internet service churn the least.
 
 **Monthly Charges by Churn Status**
-![Monthly Charges by Churn Status](images/monthly_charges_by_churn.png)
-Churned customers have a higher median monthly charge (~$80) than retained customers (~$65).
+
+
+![Monthly Charges by Churn Status](monthly_charges_by_churn.png)
+
+
+Churned customers have a higher median monthly charge (approx. $80) than retained customers (approx. $65).
 
 **Correlation Matrix of Numerical Features**
-![Correlation Matrix](images/correlation_matrix.png)
+
+
+![Correlation Matrix](correlation_matrix.png)
+
+
 Tenure and TotalCharges are strongly correlated (0.83); MonthlyCharges and tenure are only weakly related (0.25).
 
 ## Key Findings
