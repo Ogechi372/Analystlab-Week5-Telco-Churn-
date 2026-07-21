@@ -24,7 +24,7 @@ This project analyzes customer churn for a telecommunications company using the 
 ## Business Problem
 The company is losing a substantial share of its customer base, directly affecting revenue and long-term profitability. Since acquiring a new customer costs significantly more than retaining an existing one, this analysis answers:
 
-> **What customer characteristics and service attributes are most strongly associated with churn — and what can the company do about it?**
+ **What customer characteristics and service attributes are most strongly associated with churn and what can the company do about it?**
 
 ## Dataset
 - **Source:** Telco Customer Churn dataset (`WA_Fn-UseC_-Telco-Customer-Churn.csv`)
