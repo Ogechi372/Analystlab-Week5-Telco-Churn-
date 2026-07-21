@@ -81,6 +81,9 @@ Churned customers have a higher median monthly charge (approx. $80) than retaine
 
 Tenure and TotalCharges are strongly correlated (0.83); MonthlyCharges and tenure are only weakly related (0.25).
 
+## 📽️ Presentation
+📊 [Download the full presentation](Telco_Churn_Presentation.pptx)
+
 ## Key Findings
 - Of 7,032 customers analyzed, **1,869 (26.6%) churned** and 5,163 (73.4%) were retained.
 - **Gender** shows no meaningful difference in churn behavior.
