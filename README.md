@@ -5,16 +5,15 @@
 ---
 
 ## 📁 Table of Contents
-- [Project Overview](#project overview)
-- [Business Problem](#business problem)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
 - [Dataset](#dataset)
-- [Tools Used](#tools used)
-- [Data Cleaning](#data cleaning)
-- [Key Visualizations](#key visualizations)
-- [Key Findings](#key findings)
+- [Tools Used](#tools-used)
+- [Data Cleaning](#data-cleaning)
+- [Key Visualizations](#key-visualizations)
+- [Key Findings](#key-findings)
 - [Business Recommendations](#business-recommendations)
-- [Repository Structure](#repository structure)
-
+- [Repository Structure](#repository-structure)
 
 ---
 
